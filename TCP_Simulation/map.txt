@@ -1,0 +1,11 @@
+A B 4
+A C 3
+A E 7
+B L 5
+B C 6
+C D 11
+E G 5
+D G 10
+L D 9
+F L 5
+D F 6
